@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">scrolling text</string>
+    <string name="article_title">what is android?</string>
+    <string name="article_subtitle">article subtitle</string>
+    <string name="article_text">Reformat and align the code by choosing Code > Reformat Code. It is a good practice to reformat and align your code
+so that it is easier for you and others to understand.Reformat and align the code by choosing Code > Reformat Code. It is a good practice to reformat and align your code
+so that it is easier for you and others to understand.Reformat and align the code by choosing Code > Reformat Code. It is a good practice to reformat and align your code
+so that it is easier for you and others to understand. www.google.com
+    Reformat and align the code by choosing Code > Reformat Code. It is a good practice to reformat and align your code
+so that it is easier for you and others to understand. Reformat and align the code by choosing Code > Reformat Code. It is a good practice to reformat and align your code
+so that it is easier for you and others to understand. www.android.com
+    Reformat and align the code by choosing Code > Reformat Code. It is a good practice to reformat and align your code
+so that it is easier for you and others to understand.Reformat and align the code by choosing Code > Reformat Code. It is a good practice to reformat and align your code
+so that it is easier for you and others to understand. www.rockdoc.comNote: All coding challenges are optional and are not a prerequisite for later lessons.
+Challenge: Add another UI element—a Button—to the LinearLayout view group that is contained within the ScrollView.
+Make the Button appear below the article. The user would have to scroll to the end of the article to see the button. Use the
+text "Add Comment" for the Button, for users to click to add a comment to the article. For this challenge, there is no need to
+create a button-handling method to actually add a comment; it is sufficient to just place the Button element in the proper
+place in the layout.
+Introduction
+81 Note: All coding challenges are optional and are not a prerequisite for later lessons.
+Challenge: Add another UI element—a Button—to the LinearLayout view group that is contained within the ScrollView.
+Make the Button appear below the article. The user would have to scroll to the end of the article to see the button. Use the
+text "Add Comment" for the Button, for users to click to add a comment to the article. For this challenge, there is no need to
+create a button-handling method to actually add a comment; it is sufficient to just place the Button element in the proper
+place in the layout.
+Introduction
+81 Note: All coding challenges are optional and are not a prerequisite for later lessons.
+Challenge: Add another UI element—a Button—to the LinearLayout view group that is contained within the ScrollView.
+Make the Button appear below the article. The user would have to scroll to the end of the article to see the button. Use the
+text "Add Comment" for the Button, for users to click to add a comment to the article. For this challenge, there is no need to
+create a button-handling method to actually add a comment; it is sufficient to just place the Button element in the proper
+place in the layout.
+Introduction
+
+   thank you for reading                                                     written by
+                                                                    Mr.VINAYAKUMAR KULKARNI
+                                                                 Technical head INFOSYS Bangalorewww.gmail.com
+                                                               mail:vinaymkulkarni123@gmail.com   </string>
+</resources>
